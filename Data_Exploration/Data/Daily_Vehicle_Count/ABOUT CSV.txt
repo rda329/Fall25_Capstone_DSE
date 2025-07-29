@@ -1,0 +1,6 @@
+The CSVs in this directory were obtained directly from the raw source.
+
+Notes
+1) Data is unordered
+2) Data was filtered for columns for direction, year, month, day, vehicle class
+3) Daily count by class was included in the frame.

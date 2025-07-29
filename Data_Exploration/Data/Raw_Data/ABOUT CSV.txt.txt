@@ -1,0 +1,12 @@
+Due to the large file sizes of the raw data they were not included in the commits. 
+
+The Raw Data Can be found at the following links.
+
+Historical 2019 - 2023 : 
+
+https://data.cityofnewyork.us/Transportation/Weigh-in-Motion-Historical-/n5c8-x7x2/about_data
+
+
+Current 2024 - 2025 : 
+
+https://data.cityofnewyork.us/Transportation/Weigh-in-Motion/4fwc-j3vn/about_data

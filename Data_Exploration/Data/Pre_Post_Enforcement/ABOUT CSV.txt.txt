@@ -1,0 +1,14 @@
+Notes about BQE data in this directory...
+
+- Data was filtered for only vehicle class type and count
+- Data was ordered by year_month_day
+- Original raw data did not have 2024 - 2025 records for SI bound traffic.
+
+- There are no post-enforcement records for SI bound traffic.
+
+
+Queens bound warning began Aug. 10, 2023
+Queens bound enforcement began November 13, 2023
+
+SI bound warning began March 24, 2025
+SI bound enforcement began June 22,2025

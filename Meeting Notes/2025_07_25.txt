@@ -27,3 +27,5 @@ Current use of Weigh In Motion Infrastructure is for enforcement of load capacit
 To Do:
 
 - Set up follow up meeting to solidify problem statement / capstone meeting 1 presentation.
+
+ewgrgre
